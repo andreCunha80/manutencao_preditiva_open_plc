@@ -1,0 +1,1 @@
+# manutencao_preditiva_open_plc
